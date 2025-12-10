@@ -30,3 +30,6 @@ So, left is pointing to the first element >= target
 So if the target exists -> we already returned it's index
 If not, left is exactly where it should be inserted
 */
+
+// Time complexity - O(log n) - Binary search
+// Space complexity - O(1) - Only using left, right, mid variables
