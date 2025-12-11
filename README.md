@@ -1,4 +1,4 @@
-# JS-MemoryGame Project
+# LeetCodeArrayChallengeProblems
 ## Table of Contents
 - [Project Name](#project-name)
 - [About](#about)
